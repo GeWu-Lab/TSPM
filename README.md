@@ -44,7 +44,8 @@ numpy
 4. Training
 
    ```python
-   python -u main_train.py --Temp_Selection --top_k 10 --Spatio_Perception \
+   python -u main_train.py --Temp_Selection --top_k 10 \
+   						--Spatio_Perception \
    						--batch-size 64 --epochs 30 --lr 1e-4 \
    						--num_workers 12 --gpu 0,1 \
    						--checkpoint TSPM \
@@ -54,11 +55,12 @@ numpy
 5. Testing
 
    ```python
-   python -u main_test.py --Temp_Selection --top_k 10 --Spatio_Perception \
-   						--batch-size 1 --gpu 1 \
-   						--checkpoint TSPM \
-   						--model_save_dir models \
-   						--result_dir results
+   python -u main_test.py --Temp_Selection --top_k 10 \
+   					   --Spatio_Perception \
+   					   --batch-size 1 --gpu 1 \
+   					   --checkpoint TSPM \
+   					   --model_save_dir models \
+   					   --result_dir results
    ```
 
 
