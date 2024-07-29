@@ -1,0 +1,21 @@
+
+--------------- TSPM acc --------------- 
+
+
+Audio Count Acc: 84.07 %
+Audio Compt Acc: 64.65 %
+Audio Averg Acc: 76.91 %
+
+Visual Count Acc: 82.29 %
+Visual Local Acc: 84.90 %
+Visual Averg Acc: 83.61 %
+
+Audio-Visual Exist Acc: 82.19 %
+Audio-Visual Count Acc: 76.21 %
+Audio-Visual Local Acc: 71.85 %
+Audio-Visual Compt Acc: 65.76 %
+Audio-Visual Templ Acc: 71.17 %
+Audio-Visual Averg Acc: 73.51 %
+
+---->Overall Accuracy: 76.79 % 
+
