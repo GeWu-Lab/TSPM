@@ -45,11 +45,11 @@ numpy
 
    ```python
    python -u main_train.py --Temp_Selection --top_k 10 \
-   						      --Spatio_Perception \
-   						      --batch-size 64 --epochs 30 --lr 1e-4 \
-   						      --num_workers 12 --gpu 0,1 \
-   						      --checkpoint TSPM \
-   						      --model_save_dir models
+   						--Spatio_Perception \
+   						--batch-size 64 --epochs 30 --lr 1e-4 \
+   						--num_workers 12 --gpu 0,1 \
+   						--checkpoint TSPM \
+   						--model_save_dir models
    ```
 
 5. Testing
