@@ -56,11 +56,11 @@ numpy
 
    ```python
    python -u main_test.py --Temp_Selection --top_k 10 \
-   				--Spatio_Perception \
-   				--batch-size 1 --gpu 1 \
-   				--checkpoint TSPM \
-   				--model_save_dir models \
-   				--result_dir results
+   			  --Spatio_Perception \
+   			  --batch-size 1 --gpu 1 \
+   			  --checkpoint TSPM \
+   			  --model_save_dir models \
+   			  --result_dir results
    ```
 
 
