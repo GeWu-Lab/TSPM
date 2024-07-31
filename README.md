@@ -1,7 +1,9 @@
 # TSPM
 Official repository for "Boosting Audio Visual Question Answering via Key Semantic-Aware Cues" in ACM MM 2024.
 
-[Guangyao Li](https://ayameyao.github.io/), [Henghui Du](),  [Di Hu](https://dtaoo.github.io/index.html)
+ArXiv: https://arxiv.org/abs/2407.20693
+
+Authors: [Guangyao Li](https://ayameyao.github.io/), [Henghui Du](),  [Di Hu](https://dtaoo.github.io/index.html)
 
 
 
