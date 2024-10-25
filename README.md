@@ -38,9 +38,9 @@ numpy
    ```python
    cd feat_script/extract_clip_feat
    python extract_qst_ViT-L14@336px.py
-   python extract_qaPrompt_ViT-L14@336px
-   python extract_token-level_feat
-   python extract_frames_ViT-L14@336px
+   python extract_qaPrompt_ViT-L14@336px.py
+   python extract_token-level_feat.py
+   python extract_frames_ViT-L14@336px.py
    ```
 
 4. Training
